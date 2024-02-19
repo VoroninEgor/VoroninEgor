@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, my name is Egor 👋
+
+Tools and languages
+[![My Skills](https://skillicons.dev/icons?i=java,docker,html,css,)](https://skillicons.dev)
 
 <!--
 **VoroninEgor/VoroninEgor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
